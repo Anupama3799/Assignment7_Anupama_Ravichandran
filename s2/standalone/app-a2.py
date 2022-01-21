@@ -23,7 +23,7 @@ DB_PATH = '/data/music.csv'
 
 # The unique exercise code
 # The EXER environment variable has a value specific to this exercise
-ucode = unique_code.exercise_hash(os.getenv('27dcb6d6d9234e5fa8206868eb2334365cd5337d47ed90a369135f11993d093e'))
+ucode = unique_code.exercise_hash(os.getenv('EXER'))
 
 # The application
 
