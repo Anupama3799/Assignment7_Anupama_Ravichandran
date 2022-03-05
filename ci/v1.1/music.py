@@ -160,4 +160,3 @@ class Music():
             self._url + m_id,
             headers={'Authorization': self._auth}
         )
-# End of File
