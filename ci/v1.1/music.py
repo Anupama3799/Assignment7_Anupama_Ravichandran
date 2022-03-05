@@ -67,7 +67,7 @@ class Music():
 
         orig_artist: string
             The original artist performing the song.
-.
+
         Returns
         -------
         number
